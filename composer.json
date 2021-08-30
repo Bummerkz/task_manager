@@ -1,0 +1,16 @@
+{
+    "name": "voland/task_manager",
+    "description": "Task Manager for BeeJee.",
+    "authors": [
+        {
+            "name": "Voland",
+            "email": "febay@mail.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
