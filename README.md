@@ -23,5 +23,6 @@ Mysql
 2. Создать пользователя admin с паролем qwerty.
 
 PHP
-1. Перейти в папку public.
-2. В командной строке выполнить php -S localhost
+1. В командной строке выполнить composer install
+2. Перейти в папку public.
+3. В командной строке выполнить php -S localhost
